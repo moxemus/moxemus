@@ -5,8 +5,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 <p style="font-size: 18px">
    <!-- Welcome to my profile! <br>-->
-    I'm 22 years old web developer from Minsk 🇧🇾<br>
-    I'm student 🧑‍🎓 with commercial experience<br>
+    I'm 23 years old web developer from Poznan 🇵🇱<br>
     Thanks for visiting and I'd love to connect
 </p>
 
