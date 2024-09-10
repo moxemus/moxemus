@@ -5,7 +5,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 <p style="font-size: 18px">
    <!-- Welcome to my profile! <br>-->
-    I'm 24 years old PHP developer from Poznan 🇵🇱<br>
+    I'm 24 years old developer from Poznan 🇵🇱<br>
     Thanks for visiting and I'd love to connect
 </p>
 
