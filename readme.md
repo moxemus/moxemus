@@ -5,8 +5,8 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 <p style="font-size: 18px">
    <!-- Welcome to my profile! <br>-->
-    I'm 24 years old developer from Poznan 🇵🇱<br>
-    Thanks for visiting and I'd love to connect
+    I'm a 24 year old developer from Poland, with 5 years of commercial development.<br>
+    Thanks for visiting and I'd love to connect.
 </p>
 
 <h2 align="left">🔍 Where to find me</h3>    
